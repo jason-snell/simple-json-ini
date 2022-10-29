@@ -1,5 +1,5 @@
 feel free to make suggestions on my coding practices :)
-
+```
 // initialize an ini variable
 public JSON_INI ini = new JSON_INI("example.ini");
 
@@ -34,3 +34,4 @@ ini.writeItem("double_example", dValue);
   "string_example": "optional",
   "double_example": 12.345
 }
+```
